@@ -27,16 +27,18 @@
     {% endif %}
 
     <h2 class="archive__item-title" itemprop="headline">
-      {% if post.link %}
+      {% if post.medium_url %}
+        <a href="{{ post.medium_url }}" rel="permalink noopener noreferrer" target="_blank">{{ title }}</a>
+      {% elsif post.link %} {# This handles existing 'post.link' cases if they're used for other external sites #}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
-      {% else %}
+      {% else %} {# Fallback to internal Jekyll page if no external link is provided #}
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h2>
     
-    {% if post.read_time %}
+    <!-- {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
-    {% endif %}
+    {% endif %} -->
 
         {% if post.collection == 'teaching' %}
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>

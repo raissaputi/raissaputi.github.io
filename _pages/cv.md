@@ -11,54 +11,51 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Faculty of Computer Science, University of Indonesia
+  * Majoring in Computer Science 
+  * GPA: 3.86/4.00 (6 Semesters) 
+  * 2022 - Present 
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Teaching Assistant of Introduction to Digital Systems**: August 2023 - December 2023
+  * Assist students in weekly tutorial sessions.
+  * Provide feedback on student assignments.
+  * Develop challenging assignments completed by 200+ students
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **Teaching Assistant of Platform Based Programming**: August 2024 - December 2024
+  * Provided hands-on support during weekly tutorial sessions, ensuring students understood platform-based programming concepts.
+  * Guided a group of 15 students throughout the development process, from backend system design to web and mobile application development.
+  * Created technical tutorials and guides, including advanced topics such as web development with Django.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming & Frameworks
+  * Python
+  * JavaScript
+  * HTML/CSS
+  * Java Spring Boot
+  * Django
+  * React
+  * Flutter
+* Data & Backend
+  * SQL
+  * REST API
+  * Git
+  * Docker
+* Language
+  * Indonesian (Native)
+  * English
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Internship at Sekolah BEM Fasilkom: September 2022 - November 2022
+  * Learned frontend web development, including HTML, CSS, and JavaScript.
+  * Engaged in team discussions and contributed to project planning and execution.
+
+* Staff of Digital Marketing at COMPFEST 15: April 2023 - November 2023: 
+  * Created and posted short-form videos to boost engagement.
+  * Managed social media accounts and interactions.
+  * Developed and published posts about IT-related articles.
+  * Conducted live reporting during events.
+
