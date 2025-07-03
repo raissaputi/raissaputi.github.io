@@ -1,6 +1,6 @@
 ---
 title: "Təmu Search Engine"
-excerpt: "A FastAPI + Elasticsearch-based search engine with support for neural reranking and LLM-enhanced result summaries."
+excerpt: "A **FastAPI** + **Elasticsearch**-based search engine with support for **neural reranking** and **LLM-enhanced** result summaries."
 collection: portfolio
 ---
 

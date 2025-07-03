@@ -1,6 +1,6 @@
 ---
 title: "Literahub"
-excerpt: "Literahub began as a full-stack web project using Django, then expanded into mobile development using Flutter to support both platforms."
+excerpt: "Literahub began as a full-stack web project using **Django**, then expanded into mobile development using **Flutter** to support both platforms."
 collection: portfolio
 ---
 

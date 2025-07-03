@@ -1,6 +1,6 @@
 ---
 title: "Youtrend"
-excerpt: "YouTrend is a knowledge graph-powered platform to search and explore the top 1000 YouTubers and their trending videos using semantic technologies."
+excerpt: "YouTrend is a **knowledge graph**-powered platform to search and explore the top 1000 YouTubers and their trending videos using **semantic** technologies."
 collection: portfolio
 ---
 

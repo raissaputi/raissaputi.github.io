@@ -1,6 +1,6 @@
 ---
 title: "SiNgawas"
-excerpt: "An internal exam supervision management system for Fasilkom UI, featuring automated scheduling, role-based access, and CI/CD deployment."
+excerpt: "An internal exam supervision management system for Fasilkom UI, featuring **automated scheduling**, **role-based access**, and **CI/CD deployment**."
 collection: portfolio
 ---
 

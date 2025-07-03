@@ -1,6 +1,6 @@
 ---
 title: "Pacilflix"
-excerpt: "Pacilflix is a SQL-powered movie streaming simulation with full user auth, subscription management, reviews, favorites, and more."
+excerpt: "Pacilflix is a **SQL-powered** movie streaming simulation with full user auth, subscription management, reviews, favorites, and more."
 collection: portfolio
 ---
 

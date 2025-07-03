@@ -1,6 +1,6 @@
 ---
 title: "Heymart"
-excerpt: "Heymart is a modular e-commerce system with microservice architecture, built using Java Spring Boot"
+excerpt: "Heymart is a modular e-commerce system with **microservice** architecture, built using **Java Spring Boot**"
 collection: portfolio
 ---
 
