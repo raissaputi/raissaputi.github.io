@@ -17,7 +17,7 @@ Aside from studying, I also enjoy teaching. As a **Teaching Assistant** for *Int
 
 ### Learn more about my work and interests:
 
-- To see my full academic and professional background, you can [view my CV here](/cv/).
+- To see my full academic and professional background, you can [view my CV here](https://drive.google.com/file/d/14afIUtV2Tin0ywwG53klSyILerO3-83A/view?usp=sharing).
 - For a closer look at the software and systems I’ve worked on, visit my [Portfolio](/portfolio/).
 - To explore my thoughts and reflections on technology and learning, read my [Blog Posts](/year-archive/).
 
