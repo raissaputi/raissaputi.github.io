@@ -23,8 +23,8 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
-  # - title: "CV"
-  #   url: /cv/
+  - title: "CV"
+    url: https://drive.google.com/file/d/14afIUtV2Tin0ywwG53klSyILerO3-83A/view?usp=sharing
     
   # - title: "CV"
   #   url: /cv-json/
