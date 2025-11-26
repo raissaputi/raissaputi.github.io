@@ -11,13 +11,15 @@ Hello, I’m **Puti Raissa**, a final-year Computer Science student at Universit
 
 Throughout my studies, I’ve worked on various projects that helped me understand how to build software that works well, is easy to maintain, and can scale when needed. I’ve also learned a lot from working in teams; collaborating, solving problems together, and adapting to different roles.
 
-Aside from studying, I also enjoy teaching. As a **Teaching Assistant** for *Introduction to Digital Systems* and *Platform Based Programming*, I’ve helped students during tutorials, reviewed assignments, and supported them in understanding key concepts. These experiences taught me how to explain technical ideas clearly and be more patient and structured when guiding others.
+I specialize in building scalable backend systems using Python (Django) and Java (Spring Boot), and I have practical experience deploying robust applications using Docker and CI/CD tools. My current focus is on the intersection of AI and software architecture, demonstrated by my final-year research developing a full-stack application (FastAPI + React/Vite) to evaluate user interaction with Large Language Models (LLMs).
+
+Beyond coding, I excel in collaboration and leadership. As a **Teaching Assistant** for courses in Fasilkom UI, I’ve mentored students, facilitated complex debugging sessions, and taught key system design concepts. These experiences have refined my ability to simplify technical ideas, lead teams, and maintain a patient, structured approach to problem-solving.
 
 ---
 
 ### Learn more about my work and interests:
 
-- To see my full academic and professional background, you can [view my CV here](https://drive.google.com/file/d/14afIUtV2Tin0ywwG53klSyILerO3-83A/view?usp=sharing).
+- To see my full academic and professional background, you can [view my CV here](https://drive.google.com/file/d/17gAAa62hMzZZpqOLlRMuGfiC9efgSZja/view?usp=drive_link).
 - For a closer look at the software and systems I’ve worked on, visit my [Portfolio](/portfolio/).
 - To explore my thoughts and reflections on technology and learning, read my [Blog Posts](/year-archive/).
 
